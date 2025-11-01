@@ -1,0 +1,9 @@
+node_modules
+dist
+*.log
+pnpm-lock.yaml
+
+# Documentation files (not part of the reproduction)
+GITHUB_ISSUE.md
+CONFIRMED.md
+ANALYSIS.md
